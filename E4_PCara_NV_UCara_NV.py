@@ -1,0 +1,5 @@
+print("Este Programa Arroga El Numero De Veses Que Aparece El Primer y Ultimo Caracter De Un Texto.")
+Texto=input("Ingrese Un Texto Breve: " )
+Cant_Ini=Texto.count(Texto[0])
+Cant_Fin=Texto.count(Texto[-1])
+print(f"El Texto Ingresado Fue: {Texto}, Su Primera Letra {Texto[0]} Se Repite Un Total De {Cant_Ini} Veses y Su Ultima Letra {Texto[-1]} Se Repite Un Total De {Cant_Fin}")
