@@ -8,5 +8,4 @@ if Num1>Num2:
 else:
     for i in range(Num1,Num2+1):
         suma=suma+i
-
 print(f"La Suma Final Es: {suma}.")
