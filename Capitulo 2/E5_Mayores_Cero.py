@@ -7,10 +7,3 @@ print("Mayores A 0: ")
 for i in Numeros_L:
     if int(i)>0:
         print(i)
-
-
-
-
-
-
-

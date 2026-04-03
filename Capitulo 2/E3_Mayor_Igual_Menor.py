@@ -7,12 +7,3 @@ elif Num1==Num2:
     print(f"Los Numeros {Num1} y {Num2} Son Iguales.") 
 else:
     print(f"El {Num2} Es Mayor Que {Num1}.")
-
-
-
-
-
-
-
-
-

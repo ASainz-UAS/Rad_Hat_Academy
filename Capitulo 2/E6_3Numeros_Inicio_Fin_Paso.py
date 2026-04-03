@@ -4,7 +4,3 @@ Fin=int(input("Ingrese El Fin Del Algoritmo: "))
 Paso=int(input("Ingrese Con Que Paso Ira El Algoritmo: "))
 for i in range (Inicio,Fin,Paso):
     print(i)
-
-
-
-
