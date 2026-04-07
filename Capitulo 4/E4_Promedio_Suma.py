@@ -9,7 +9,11 @@ while True:
         Numeros.append(int(Numero))
 def suma(*args):
     total=0
+    promedio=0
     for i in args:
         total+=i
-    return total
-print("El Total De La Suma Es:",suma(*Numeros))
+    promedio=total/len(args)
+    return total, promedio
+total, promedio = suma(*Numeros)
+print("El Total De La Suma Es:",total)
+print("El Total Del Promedio Es: ",promedio)
