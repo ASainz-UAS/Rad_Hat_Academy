@@ -1,6 +1,9 @@
+#Introducción.
 print("Este Programa Solicita 2 Numeros Enteros y Valora Si Son Iguales O Quien Es Mayor.")
-Num1=input("Introduzca El Primer Numero: ")
-Num2=input("Introduzca El Segundo Numero: ")
+#Solicita Al Usuario Ingresar Los Valores.
+Num1=float(input("Introduzca El Primer Numero: "))
+Num2=float(input("Introduzca El Segundo Numero: "))
+#Valora Si Son Iguales, Menores O Iguales.
 if Num1>Num2:
     print(f"El {Num1} Es Mayor Que {Num2}.")
 elif Num1==Num2:
