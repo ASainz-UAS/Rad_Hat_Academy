@@ -14,4 +14,3 @@ def aumento(valor,Diccionario):
 Dic1=aumento(Num,dic)
 #imprime El Resultado Del Algoritmo.
 print(f"El Diccionario Con Su Aumento Queda Asi: {Dic1}.")
-
