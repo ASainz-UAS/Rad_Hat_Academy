@@ -1,4 +1,4 @@
-
+#Crea Una Clase Que Captura Datos De Una Persona.
 class Persona:
     def __init__(self, Nombre, Edad, Genero):
         self.Nombre=Nombre
