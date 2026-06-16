@@ -8,7 +8,7 @@ while True:
         Numero=int(input("Ingrese Un Numero: "))
         break
     except ValueError:
-        print("Solo Se Aceptn Numeros Enteros...")
+        print("Solo Se Acepta Numeros Enteros...")
 #Busca El Signo '-', Para Validar Si Es Negativo.
 Signo=re.search("^-", Numero)
 #Si Numero Si Contine '-', La Variable Signo Aguarda Un 'Match' El En Este if Se Considera Con True.
