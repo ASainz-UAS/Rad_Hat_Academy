@@ -1,0 +1,33 @@
+{
+    "odisea": {
+        "Año": 800,
+        "Paginas": 374,
+        "Idioma": "griego",
+        "Autor": "Homero",
+        "Pais": "Grecia"
+    },
+
+    "don Quijote": {
+        "Año": 1605,
+        "Paginas": 863,
+        "Idioma": "español",
+        "Autor": "Miguel de Cervantes",
+        "Pais": "España"
+    },
+
+    "el principito": {
+        "Año": 1943,
+        "Paginas": 96,
+        "Idioma": "frances",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Pais": "Francia"
+    },
+
+    "cien años de soledad": {
+        "Año": 1967,
+        "Paginas": 417,
+        "Idioma": "español",
+        "Autor": "Gabriel García Márquez",
+        "Pais": "Colombia"
+    }
+}
