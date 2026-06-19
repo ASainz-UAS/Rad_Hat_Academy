@@ -16,3 +16,5 @@ while Lineas!="":
     ArchivoNuevo.write(Lineas)
     Lineas=Archivo.readline()
 print("Archivo Copiado...")
+ArchivoNuevo.close()
+Archivo.close()

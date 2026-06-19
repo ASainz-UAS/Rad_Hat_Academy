@@ -17,3 +17,4 @@ for Archivo in Archivos:
             Conteo[Nombre]=1
 #Imprime Los Resutados.
 imprimir(Conteo)
+ArchivoN.close()

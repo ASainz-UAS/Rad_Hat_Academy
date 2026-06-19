@@ -14,3 +14,5 @@ for Nombre in Nombres1:
     if Nombre in Nombres2:
         NombresRepetidos.append(Nombre)
 imprimir(NombresRepetidos, Nombres1, Nombres2, Archivos)
+Archivo1.close()
+Archivo2.close()
