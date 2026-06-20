@@ -1,0 +1,5 @@
+"the wind blew"
+"the storm came"
+"the wind stopped"
+"the rain started"
+"the wind returned"
