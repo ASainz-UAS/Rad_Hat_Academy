@@ -4,7 +4,7 @@ import json
 #Abre y Cierra El JSON Automaticamente.
 #Busca El JSON Con La Ruta De La Carpeta Que Lo Almacena y Lo Abre En Modo Lectura.
 #Usa encoding="utf-8", Para Aceptar Caracteres Como ñ o Acentos.
-with open("Capitulo 11/Ejercicio 1/books.json", "r", encoding="utf-8") as Libros:
+with open("Capitulo 11 JSON/Ejercicio 1/books.json", "r", encoding="utf-8") as Libros:
     LibrosN=json.load(Libros)
 print("Ingrese 'q' Para Salir.")
 while True:
